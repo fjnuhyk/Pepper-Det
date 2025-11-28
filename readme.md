@@ -56,10 +56,12 @@ Detection results (e.g., bounding box coordinates and class probabilities)
 Pepper-Det/
 ├── weights/                  # Model weights
 │   ├── Pepper-Det_for_Eggplant.pt
-│   └── Pepper-Det_for_Pepper.pt  
-├── dataset/                  # Sample test images
+│   └── Pepper-Det_for_Pepper.pt
+|   └── Pepper-Det_for_simulatedPepper.pt
+├── images/                  # Sample test images
 │   ├── eggplant_test.jpg
 │   └── pepper_test.jpg
+|   └── ...   
 ├── README.md (or readme.txt)
 └── ...                      # Other project files
 ```
