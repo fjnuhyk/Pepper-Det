@@ -6,7 +6,7 @@ pip install torch torchvision opencv-python
 pip install ultralytics
 ```
 
-# 2 Clone the YOLO repository
+# 2 Clone the Pepper-Det repository
 
 ```
 git clone https://github.com/Pepper-Det/
